@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello world! I'm Jofris Hutabarat 🙌
+![Jofris](img/programmer_text_2.jpg)
 <!--
 **Jetx12/Jetx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **JavaScript**
+- ⚡ Fun fact: I like coding and music
